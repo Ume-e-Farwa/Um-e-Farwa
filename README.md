@@ -1,17 +1,17 @@
 
 
 <h1 >Hi 👋, I'm Um-e-Farwa</h1>
-<h3 align="center">A creative Front-End Developer focused on building responsive, beautiful, and intuitive interfaces.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-e-farwa&label=Profile%20views&color=0e75b6&style=flat" alt="ume-e-farwa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ume-e-farwa" alt="ume-e-farwa" /></a> </p>
+<h3 >A creative Front-End Developer focused on building responsive, beautiful, and intuitive interfaces.</h3>
 
 - 🔭 I’m currently working on **Final Year Project(FYP Portal)**
 
 - 🌱 I’m currently learning **Currently learning Front-End Development: HTML5 • CSS3 • JavaScript • Bootstrap • Tailwind • Git**
 
 - 📫 How to reach me **umefarwa083@gmail.com**
+
+- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-e-farwa&label=Profile%20views&color=0e75b6&style=flat" alt="ume-e-farwa" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ume-e-farwa" alt="ume-e-farwa" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
