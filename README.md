@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ume-farwa-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ume-farwa-" height="30" width="40" /></a>
-<a href="https://instagram.com/u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u" height="30" width="40" /></a>
+<a href="https://instagram.com/umefarwa.34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ume-e-farwa&show_icons=true&locale=en&layout=compact" alt="ume-e-farwa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ume-e-farwa&show_icons=true&locale=en" alt="ume-e-farwa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ume-e-farwa&" alt="ume-e-farwa" /></p>
