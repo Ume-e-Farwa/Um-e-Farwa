@@ -1,6 +1,6 @@
-# Um-e-Farwa
 
-<h1 align="center">Hi 👋, I'm Um-e-Farwa</h1>
+
+<h1 >Hi 👋, I'm Um-e-Farwa</h1>
 <h3 align="center">A creative Front-End Developer focused on building responsive, beautiful, and intuitive interfaces.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ume-e-farwa&label=Profile%20views&color=0e75b6&style=flat" alt="ume-e-farwa" /> </p>
